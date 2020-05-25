@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
+=======
+  <component name="ProjectDictionaryState">
+    <dictionary name="mac" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Cucumber</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CucumberTableInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+>>>>>>> ad366c019f2545b53d5c0aa1a135e4c99ab66665
   </component>
 </project>
